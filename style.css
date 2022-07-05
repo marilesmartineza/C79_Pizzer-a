@@ -11,6 +11,12 @@ body{
     width: 100%;
   }
   
+  #display_menu{
+    font-family:'Comfortaa';
+    font-size: 40cm;
+    color: white;
+  }
+
   .topnav a {
 	float: left;
 	color: #f2f2f2;
